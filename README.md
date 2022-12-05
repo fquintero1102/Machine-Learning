@@ -13,12 +13,14 @@ El tercer paso es el tratamiento de los datos antes de entrenar modelos de Machi
 *-Balanceamos los datos de Train para evitar sesgar el algoritmo.
 
 El cuarto paso es la elección del mejor modelo, con ciertos híper parámetros.
+
 *-Eligiendo el modelo.
 *-Definimos modelos e hiper parámetros.
 *-Definí GSCV e hiper parámetros.
 *-Ejecutamos búsqueda del mejor modelo.
 
 El quinto paso es predecir ya con nuestro modelo entrenado, nuevos Target.
+
 *-predicción con X_nueva.
 
 ¡Gracias! Francisco Quintero (FQ)
